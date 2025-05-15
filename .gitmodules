@@ -1,0 +1,3 @@
+[submodule "amm"]
+	path = amm
+	url = git@github.com:Khrees2412/amm.git
